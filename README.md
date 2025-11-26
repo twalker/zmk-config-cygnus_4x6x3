@@ -45,6 +45,8 @@ This [ZMK](https://zmk.dev/) configuration was copied from [juhakaup/zmk-cygnus-
 |          |          |          |          | RESET | BOOT   |              | BOOT | RESET  |          |        |     |     |
 
 * [List of Keycodes](https://zmk.dev/docs/keymaps/list-of-keycodes)
+* [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
+
 ---
 
 ### TODO:
