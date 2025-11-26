@@ -100,7 +100,7 @@
 &trans  &kp EXCL    &kp AT    &kp LBRC &kp RBRC &kp PIPE        &kp AMPS  &kp ASTRK &kp LT    &kp GT    &kp SQT  &trans
 &trans  &kp HASH    &kp DLLR  &kp LPAR &kp RPAR &kp GRAVE       &kp MINUS &kp EQUAL &kp PLUS  &kp UNDER &kp SEMI &trans
 &trans  &kp PRCNT   &kp CARET &kp LBKT &kp RBKT &kp TILDE       &kp BSLH  &kp COLON &kp COMMA &kp DOT   &kp FSLH &trans
-                          &trans    &trans    &kp BACKSPACE    &trans     &trans     &trans
+                          &trans    &trans    &trans            &trans     &trans     &trans
             >;
         };
 
